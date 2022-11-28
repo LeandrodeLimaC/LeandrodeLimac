@@ -23,7 +23,7 @@ Technologies I've been learning and using so far
  ![Fedora](https://img.shields.io/badge/Fedora-4d9acf?style=flat-square&logo=Fedora&logoColor=white)
  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
  ![Insomnia](https://img.shields.io/badge/Insominia-5445b4?style=flat-square&logo=insomnia&logoColor=white)
- ![Postman](https://img.shields.io/badge/postman-f06632?style=flat-square&logo=insomnia&logoColor=white)
+ ![Postman](https://img.shields.io/badge/postman-f06632?style=flat-square&logo=postman&logoColor=white)
  
  ## 📊 Github Stats
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrodelimac&show_icons=true&theme=dark)
