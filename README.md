@@ -31,7 +31,7 @@ Technologies I've been learning and using so far
  ![Postman](https://img.shields.io/badge/postman-f06632?style=flat-square&logo=postman&logoColor=white)
  ![Docker](https://img.shields.io/badge/Docker-0084ad?style=flat-square&logo=docker&logoColor=white)
  ![Vite](https://img.shields.io/badge/Vite-bb2eee?style=flat-square&logo=vite&logoColor=white)
- ![Jenkins](https://img.shields.io/badge/Jenkins-005459?style=flat-square&logo=jenkins&logoColor=white)
+ ![Jenkins](https://img.shields.io/badge/Jenkins-f20036?style=flat-square&logo=jenkins&logoColor=white)
  
  ## 📊 Github Stats
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrodelimac&show_icons=true&theme=dark)
