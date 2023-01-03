@@ -34,4 +34,4 @@ Feel free to contact me@cuminato.dev 😄 <br  />
 You can also find me at <br  />
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrocuminato)
 [![CodePen](https://img.shields.io/badge/CodePen-1e1e26?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/theNewt)
-
+[![Rocketseat](https://img.shields.io/badge/Rocketseat-6200ee?style=flat-square&logo=rocketseat&logoColor=white)](https://app.rocketseat.com.br/me/limacuminato)
